@@ -9,6 +9,12 @@ and the required file is comma separated. We are doing this a way of
 easing the reporting burden on institutions and intend to build on this
 capacity in the future based on use and feedback.
 
+I’ve filter the rows that have a zero count. This doesn’t need to be
+done. You can leave them in, but the other issue that this was solving
+is the removal of the NA ethnicity (a category from pre-2011 that still
+is in the reports downloaded, but is always 0). Those values (if they
+exist in your data), should be filtered.
+
 ## Folder Structure
 
 The data\_transform.R file contains R code (using Tidyverse syntax) to

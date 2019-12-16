@@ -47,7 +47,11 @@ flat_enrollment = reported_enrollment %>% gather(key=variable,value=Count,
   left_join(codebook,by="variable") %>%
   mutate(Program = Degree, Type = "eng") %>%
   select(Type, Program, Class, Degree_level, Status,
-         Gender, Ethnicity, Count)
+         Gender, Ethnicity, Count) %>%
+  filter(Count!=0) 
+
+
+
 
 #This file is what is uploaded.
 write.csv(flat_enrollment, "enrollment.csv")
