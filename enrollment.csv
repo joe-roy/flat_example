@@ -1,683 +1,683 @@
-"","Type","Program","Class","Degree_level","Status","Gender","Ethnicity","Count"
-"1","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","white",25
-"2","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","white",17
-"3","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","white",5
-"4","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","white",18
-"5","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","white",29
-"6","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","white",16
-"7","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","white",29
-"8","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","white",17
-"9","eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","white",3
-"10","eng","Engineering Undeclared","freshman","bachelor","full_time","male","white",12
-"11","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","white",10
-"12","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","white",13
-"13","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","white",38
-"14","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","male","white",12
-"15","eng","Physics","freshman","bachelor","full_time","male","white",26
-"16","eng","Systems Engineering and Design","freshman","bachelor","full_time","male","white",11
-"17","eng","Technical Systems Management","freshman","bachelor","full_time","male","white",4
-"18","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","white",10
-"19","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","white",8
-"20","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","white",10
-"21","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","white",14
-"22","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","white",13
-"23","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","white",6
-"24","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","white",6
-"25","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","white",2
-"26","eng","Engineering Undeclared","freshman","bachelor","full_time","female","white",13
-"27","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","female","white",5
-"28","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","white",5
-"29","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","white",10
-"30","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","female","white",1
-"31","eng","Physics","freshman","bachelor","full_time","female","white",5
-"32","eng","Systems Engineering and Design","freshman","bachelor","full_time","female","white",10
-"33","eng","Technical Systems Management","freshman","bachelor","full_time","female","white",1
-"34","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","black",1
-"35","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","black",1
-"36","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","black",1
-"37","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
-"38","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
-"39","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","black",3
-"40","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","black",3
-"41","eng","Engineering Undeclared","freshman","bachelor","full_time","male","black",4
-"42","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
-"43","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
-"44","eng","Physics","freshman","bachelor","full_time","male","black",1
-"45","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","black",1
-"46","eng","Engineering Undeclared","freshman","bachelor","full_time","female","black",2
-"47","eng","Systems Engineering and Design","freshman","bachelor","full_time","female","black",1
-"48","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",11
-"49","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",3
-"50","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",1
-"51","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",13
-"52","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",11
-"53","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",12
-"54","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",38
-"55","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",25
-"56","eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",8
-"57","eng","Engineering Undeclared","freshman","bachelor","full_time","male","nonresident_alien",2
-"58","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",10
-"59","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",8
-"60","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",17
-"61","eng","Physics","freshman","bachelor","full_time","male","nonresident_alien",18
-"62","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",1
-"63","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",10
-"64","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",3
-"65","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
-"66","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",6
-"67","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
-"68","eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",1
-"69","eng","Engineering Undeclared","freshman","bachelor","full_time","female","nonresident_alien",2
-"70","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",3
-"71","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
-"72","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",5
-"73","eng","Physics","freshman","bachelor","full_time","female","nonresident_alien",5
-"74","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","asian",15
-"75","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","asian",3
-"76","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","asian",8
-"77","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",14
-"78","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","asian",15
-"79","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","asian",26
-"80","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","asian",31
-"81","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",27
-"82","eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","asian",3
-"83","eng","Engineering Undeclared","freshman","bachelor","full_time","male","asian",13
-"84","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","asian",5
-"85","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","asian",6
-"86","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",21
-"87","eng","Physics","freshman","bachelor","full_time","male","asian",4
-"88","eng","Systems Engineering and Design","freshman","bachelor","full_time","male","asian",4
-"89","eng","Technical Systems Management","freshman","bachelor","full_time","male","asian",1
-"90","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","asian",2
-"91","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","asian",2
-"92","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","asian",7
-"93","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",12
-"94","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","asian",3
-"95","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","asian",7
-"96","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","asian",22
-"97","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",6
-"98","eng","Engineering Undeclared","freshman","bachelor","full_time","female","asian",2
-"99","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","asian",1
-"100","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",6
-"101","eng","Physics","freshman","bachelor","full_time","female","asian",1
-"102","eng","Systems Engineering and Design","freshman","bachelor","full_time","female","asian",1
-"103","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",6
-"104","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",6
-"105","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",5
-"106","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",4
-"107","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","hispanic",7
-"108","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",8
-"109","eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","hispanic",1
-"110","eng","Engineering Undeclared","freshman","bachelor","full_time","male","hispanic",11
-"111","eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",2
-"112","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",2
-"113","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",12
-"114","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",1
-"115","eng","Physics","freshman","bachelor","full_time","male","hispanic",2
-"116","eng","Systems Engineering and Design","freshman","bachelor","full_time","male","hispanic",4
-"117","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",2
-"118","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
-"119","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
-"120","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",3
-"121","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","hispanic",4
-"122","eng","Engineering Undeclared","freshman","bachelor","full_time","female","hispanic",8
-"123","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
-"124","eng","Systems Engineering and Design","freshman","bachelor","full_time","female","hispanic",2
-"125","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","pacific_islander",1
-"126","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","pacific_islander",1
-"127","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
-"128","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
-"129","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
-"130","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",6
-"131","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",4
-"132","eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",4
-"133","eng","Engineering Undeclared","freshman","bachelor","full_time","male","two_or_more",3
-"134","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",1
-"135","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
-"136","eng","Physics","freshman","bachelor","full_time","male","two_or_more",3
-"137","eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"138","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"139","eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"140","eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"141","eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"142","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","two_or_more",3
-"143","eng","Engineering Undeclared","freshman","bachelor","full_time","female","two_or_more",1
-"144","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"145","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
-"146","eng","Physics","freshman","bachelor","full_time","female","two_or_more",1
-"147","eng","Systems Engineering and Design","freshman","bachelor","full_time","female","two_or_more",1
-"148","eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",2
-"149","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
-"150","eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","unknown",2
-"151","eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
-"152","eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
-"153","eng","Physics","freshman","bachelor","full_time","male","unknown",2
-"154","eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","unknown",2
-"155","eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","unknown",1
-"156","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","white",49
-"157","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","white",16
-"158","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","white",7
-"159","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",33
-"160","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","white",52
-"161","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","white",41
-"162","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","white",55
-"163","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",55
-"164","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","white",10
-"165","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","white",22
-"166","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","white",19
-"167","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","white",18
-"168","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",48
-"169","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","white",9
-"170","eng","Physics","sophomore","bachelor","full_time","male","white",38
-"171","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","white",22
-"172","eng","Technical Systems Management","sophomore","bachelor","full_time","male","white",13
-"173","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","white",14
-"174","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","white",9
-"175","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","white",10
-"176","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",17
-"177","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","white",28
-"178","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","white",5
-"179","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","white",16
-"180","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",13
-"181","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","female","white",1
-"182","eng","Engineering Undeclared","sophomore","bachelor","full_time","female","white",12
-"183","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","white",6
-"184","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","white",3
-"185","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",23
-"186","eng","Physics","sophomore","bachelor","full_time","female","white",10
-"187","eng","Systems Engineering and Design","sophomore","bachelor","full_time","female","white",5
-"188","eng","Technical Systems Management","sophomore","bachelor","full_time","female","white",1
-"189","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",2
-"190","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","black",1
-"191","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","black",1
-"192","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","black",3
-"193","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",2
-"194","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","black",2
-"195","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",4
-"196","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","black",1
-"197","eng","Technical Systems Management","sophomore","bachelor","full_time","male","black",5
-"198","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","black",1
-"199","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
-"200","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
-"201","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","black",1
-"202","eng","Engineering Undeclared","sophomore","bachelor","full_time","female","black",4
-"203","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
-"204","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
-"205","eng","Technical Systems Management","sophomore","bachelor","full_time","female","black",1
-"206","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",13
-"207","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",2
-"208","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",11
-"209","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",16
-"210","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",38
-"211","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",39
-"212","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",44
-"213","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",5
-"214","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","nonresident_alien",3
-"215","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",10
-"216","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",7
-"217","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",27
-"218","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",1
-"219","eng","Physics","sophomore","bachelor","full_time","male","nonresident_alien",29
-"220","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","nonresident_alien",7
-"221","eng","Technical Systems Management","sophomore","bachelor","full_time","male","nonresident_alien",1
-"222","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",2
-"223","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",3
-"224","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",1
-"225","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",8
-"226","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",2
-"227","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",6
-"228","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",12
-"229","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
-"230","eng","Engineering Undeclared","sophomore","bachelor","full_time","female","nonresident_alien",7
-"231","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",4
-"232","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
-"233","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
-"234","eng","Physics","sophomore","bachelor","full_time","female","nonresident_alien",7
-"235","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",19
-"236","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",4
-"237","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","asian",10
-"238","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",23
-"239","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",14
-"240","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",77
-"241","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","asian",95
-"242","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",40
-"243","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","asian",3
-"244","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","asian",13
-"245","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",6
-"246","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",13
-"247","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",32
-"248","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",3
-"249","eng","Physics","sophomore","bachelor","full_time","male","asian",15
-"250","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","asian",12
-"251","eng","Technical Systems Management","sophomore","bachelor","full_time","male","asian",1
-"252","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",2
-"253","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","asian",9
-"254","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",9
-"255","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",4
-"256","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",10
-"257","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","asian",63
-"258","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",8
-"259","eng","Engineering Undeclared","sophomore","bachelor","full_time","female","asian",2
-"260","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",6
-"261","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",6
-"262","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",20
-"263","eng","Physics","sophomore","bachelor","full_time","female","asian",6
-"264","eng","Systems Engineering and Design","sophomore","bachelor","full_time","female","asian",5
-"265","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",9
-"266","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",1
-"267","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",8
-"268","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",8
-"269","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",14
-"270","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","hispanic",6
-"271","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",6
-"272","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","hispanic",4
-"273","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","hispanic",6
-"274","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",3
-"275","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",2
-"276","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",14
-"277","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",1
-"278","eng","Physics","sophomore","bachelor","full_time","male","hispanic",1
-"279","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","hispanic",6
-"280","eng","Technical Systems Management","sophomore","bachelor","full_time","male","hispanic",6
-"281","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",4
-"282","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",2
-"283","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",7
-"284","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",1
-"285","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","hispanic",8
-"286","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",4
-"287","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",1
-"288","eng","Physics","sophomore","bachelor","full_time","female","hispanic",2
-"289","eng","Technical Systems Management","sophomore","bachelor","full_time","female","hispanic",1
-"290","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","pacific_islander",2
-"291","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","pacific_islander",1
-"292","eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",5
-"293","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
-"294","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",6
-"295","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",4
-"296","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",5
-"297","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","two_or_more",4
-"298","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",3
-"299","eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
-"300","eng","Engineering Undeclared","sophomore","bachelor","full_time","male","two_or_more",2
-"301","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",3
-"302","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",2
-"303","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",8
-"304","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
-"305","eng","Physics","sophomore","bachelor","full_time","male","two_or_more",5
-"306","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","two_or_more",2
-"307","eng","Technical Systems Management","sophomore","bachelor","full_time","male","two_or_more",1
-"308","eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
-"309","eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
-"310","eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",3
-"311","eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
-"312","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
-"313","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",3
-"314","eng","Engineering Undeclared","sophomore","bachelor","full_time","female","two_or_more",2
-"315","eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
-"316","eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",1
-"317","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
-"318","eng","Physics","sophomore","bachelor","full_time","female","two_or_more",1
-"319","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",3
-"320","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","unknown",5
-"321","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",4
-"322","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",2
-"323","eng","Physics","sophomore","bachelor","full_time","male","unknown",3
-"324","eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","unknown",1
-"325","eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",1
-"326","eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","unknown",4
-"327","eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",2
-"328","eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",1
-"329","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","white",43
-"330","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","white",7
-"331","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","white",14
-"332","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","white",46
-"333","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","white",66
-"334","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","white",71
-"335","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","white",83
-"336","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","white",59
-"337","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","white",5
-"338","eng","Engineering Undeclared","junior","bachelor","full_time","male","white",1
-"339","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","white",19
-"340","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","white",18
-"341","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","white",81
-"342","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","white",22
-"343","eng","Physics","junior","bachelor","full_time","male","white",42
-"344","eng","Systems Engineering and Design","junior","bachelor","full_time","male","white",19
-"345","eng","Technical Systems Management","junior","bachelor","full_time","male","white",30
-"346","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","white",7
-"347","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","white",6
-"348","eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","white",21
-"349","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","white",23
-"350","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","white",26
-"351","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","white",7
-"352","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","white",20
-"353","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","white",9
-"354","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","white",2
-"355","eng","Engineering Undeclared","junior","bachelor","full_time","female","white",1
-"356","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","white",4
-"357","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","white",11
-"358","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","white",29
-"359","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","white",2
-"360","eng","Physics","junior","bachelor","full_time","female","white",5
-"361","eng","Systems Engineering and Design","junior","bachelor","full_time","female","white",8
-"362","eng","Technical Systems Management","junior","bachelor","full_time","female","white",1
-"363","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","black",3
-"364","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","black",1
-"365","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","black",1
-"366","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","black",2
-"367","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","black",4
-"368","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","black",7
-"369","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","black",2
-"370","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","black",1
-"371","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","black",2
-"372","eng","Systems Engineering and Design","junior","bachelor","full_time","male","black",2
-"373","eng","Technical Systems Management","junior","bachelor","full_time","male","black",7
-"374","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","black",1
-"375","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","black",1
-"376","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","black",1
-"377","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","black",2
-"378","eng","Technical Systems Management","junior","bachelor","full_time","female","black",1
-"379","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
-"380","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",4
-"381","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",1
-"382","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",23
-"383","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",12
-"384","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",70
-"385","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","nonresident_alien",95
-"386","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",56
-"387","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","nonresident_alien",6
-"388","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
-"389","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
-"390","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",25
-"391","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",5
-"392","eng","Physics","junior","bachelor","full_time","male","nonresident_alien",30
-"393","eng","Systems Engineering and Design","junior","bachelor","full_time","male","nonresident_alien",8
-"394","eng","Technical Systems Management","junior","bachelor","full_time","male","nonresident_alien",2
-"395","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
-"396","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
-"397","eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",2
-"398","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
-"399","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",6
-"400","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",21
-"401","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","nonresident_alien",33
-"402","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",11
-"403","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
-"404","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
-"405","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",3
-"406","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
-"407","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
-"408","eng","Physics","junior","bachelor","full_time","female","nonresident_alien",8
-"409","eng","Systems Engineering and Design","junior","bachelor","full_time","female","nonresident_alien",3
-"410","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","asian",26
-"411","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","asian",1
-"412","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","asian",4
-"413","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","asian",26
-"414","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","asian",13
-"415","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","asian",95
-"416","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","asian",131
-"417","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","asian",52
-"418","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","asian",7
-"419","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","asian",17
-"420","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","asian",6
-"421","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","asian",25
-"422","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","asian",3
-"423","eng","Physics","junior","bachelor","full_time","male","asian",21
-"424","eng","Systems Engineering and Design","junior","bachelor","full_time","male","asian",13
-"425","eng","Technical Systems Management","junior","bachelor","full_time","male","asian",7
-"426","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","asian",1
-"427","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","asian",2
-"428","eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","asian",10
-"429","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","asian",14
-"430","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
-"431","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","asian",23
-"432","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","asian",71
-"433","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","asian",10
-"434","eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","asian",1
-"435","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","asian",4
-"436","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
-"437","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
-"438","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","asian",1
-"439","eng","Physics","junior","bachelor","full_time","female","asian",9
-"440","eng","Systems Engineering and Design","junior","bachelor","full_time","female","asian",6
-"441","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",7
-"442","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","hispanic",5
-"443","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",10
-"444","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",15
-"445","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",14
-"446","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","hispanic",13
-"447","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",18
-"448","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",1
-"449","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",2
-"450","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",24
-"451","eng","Physics","junior","bachelor","full_time","male","hispanic",12
-"452","eng","Systems Engineering and Design","junior","bachelor","full_time","male","hispanic",3
-"453","eng","Technical Systems Management","junior","bachelor","full_time","male","hispanic",7
-"454","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"455","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"456","eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
-"457","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
-"458","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
-"459","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"460","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","hispanic",6
-"461","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"462","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"463","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",4
-"464","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
-"465","eng","Systems Engineering and Design","junior","bachelor","full_time","female","hispanic",2
-"466","eng","Technical Systems Management","junior","bachelor","full_time","female","hispanic",1
-"467","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","pacific_islander",1
-"468","eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",2
-"469","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",1
-"470","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
-"471","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",1
-"472","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",5
-"473","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",5
-"474","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","two_or_more",10
-"475","eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",6
-"476","eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
-"477","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
-"478","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",8
-"479","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
-"480","eng","Physics","junior","bachelor","full_time","male","two_or_more",3
-"481","eng","Systems Engineering and Design","junior","bachelor","full_time","male","two_or_more",3
-"482","eng","Technical Systems Management","junior","bachelor","full_time","male","two_or_more",1
-"483","eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
-"484","eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
-"485","eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",3
-"486","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",2
-"487","eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
-"488","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","two_or_more",6
-"489","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
-"490","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",3
-"491","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
-"492","eng","Physics","junior","bachelor","full_time","female","two_or_more",4
-"493","eng","Technical Systems Management","junior","bachelor","full_time","female","two_or_more",1
-"494","eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","unknown",1
-"495","eng","Computer Science (B.S.)","junior","bachelor","full_time","male","unknown",6
-"496","eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","unknown",1
-"497","eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","unknown",2
-"498","eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","unknown",2
-"499","eng","Computer Science (B.S.)","junior","bachelor","full_time","female","unknown",2
-"500","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","white",97
-"501","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","white",23
-"502","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","white",21
-"503","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","white",87
-"504","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","white",109
-"505","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","white",149
-"506","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","white",176
-"507","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","white",119
-"508","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","white",12
-"509","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","white",22
-"510","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","white",56
-"511","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","white",140
-"512","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","white",29
-"513","eng","Physics","senior","bachelor","full_time","male","white",94
-"514","eng","Systems Engineering and Design","senior","bachelor","full_time","male","white",25
-"515","eng","Technical Systems Management","senior","bachelor","full_time","male","white",43
-"516","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","white",21
-"517","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","white",11
-"518","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","white",25
-"519","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","white",29
-"520","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","white",36
-"521","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","white",9
-"522","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","white",29
-"523","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","white",17
-"524","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","white",2
-"525","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","white",8
-"526","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","white",15
-"527","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","white",36
-"528","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","white",5
-"529","eng","Physics","senior","bachelor","full_time","female","white",18
-"530","eng","Systems Engineering and Design","senior","bachelor","full_time","female","white",15
-"531","eng","Technical Systems Management","senior","bachelor","full_time","female","white",2
-"532","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","black",2
-"533","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","black",1
-"534","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","black",1
-"535","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","black",5
-"536","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","black",3
-"537","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","black",6
-"538","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","black",10
-"539","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","black",8
-"540","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","black",4
-"541","eng","Physics","senior","bachelor","full_time","male","black",1
-"542","eng","Systems Engineering and Design","senior","bachelor","full_time","male","black",2
-"543","eng","Technical Systems Management","senior","bachelor","full_time","male","black",9
-"544","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","black",3
-"545","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","black",1
-"546","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","black",2
-"547","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","black",1
-"548","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","black",1
-"549","eng","Technical Systems Management","senior","bachelor","full_time","female","black",3
-"550","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",19
-"551","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",3
-"552","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",1
-"553","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",35
-"554","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",33
-"555","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",154
-"556","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","nonresident_alien",186
-"557","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",97
-"558","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","nonresident_alien",16
-"559","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",23
-"560","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",16
-"561","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",45
-"562","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",3
-"563","eng","Physics","senior","bachelor","full_time","male","nonresident_alien",48
-"564","eng","Systems Engineering and Design","senior","bachelor","full_time","male","nonresident_alien",5
-"565","eng","Technical Systems Management","senior","bachelor","full_time","male","nonresident_alien",3
-"566","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",5
-"567","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",4
-"568","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",3
-"569","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",20
-"570","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",11
-"571","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",21
-"572","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","nonresident_alien",70
-"573","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",20
-"574","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","nonresident_alien",4
-"575","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",9
-"576","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",12
-"577","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",9
-"578","eng","Physics","senior","bachelor","full_time","female","nonresident_alien",9
-"579","eng","Systems Engineering and Design","senior","bachelor","full_time","female","nonresident_alien",1
-"580","eng","Technical Systems Management","senior","bachelor","full_time","female","nonresident_alien",1
-"581","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","asian",35
-"582","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","asian",3
-"583","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","asian",28
-"584","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","asian",47
-"585","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","asian",38
-"586","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","asian",196
-"587","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","asian",221
-"588","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","asian",103
-"589","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","asian",8
-"590","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","asian",22
-"591","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","asian",32
-"592","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","asian",50
-"593","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","asian",5
-"594","eng","Physics","senior","bachelor","full_time","male","asian",31
-"595","eng","Systems Engineering and Design","senior","bachelor","full_time","male","asian",23
-"596","eng","Technical Systems Management","senior","bachelor","full_time","male","asian",4
-"597","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","asian",4
-"598","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","asian",4
-"599","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","asian",19
-"600","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","asian",20
-"601","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","asian",14
-"602","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","asian",26
-"603","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","asian",77
-"604","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","asian",14
-"605","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","asian",3
-"606","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","asian",6
-"607","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","asian",12
-"608","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","asian",12
-"609","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","asian",2
-"610","eng","Physics","senior","bachelor","full_time","female","asian",8
-"611","eng","Systems Engineering and Design","senior","bachelor","full_time","female","asian",6
-"612","eng","Technical Systems Management","senior","bachelor","full_time","female","asian",2
-"613","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",22
-"614","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",3
-"615","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","hispanic",8
-"616","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",14
-"617","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",17
-"618","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",13
-"619","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","hispanic",23
-"620","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",16
-"621","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","hispanic",3
-"622","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",5
-"623","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",6
-"624","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",24
-"625","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",5
-"626","eng","Physics","senior","bachelor","full_time","male","hispanic",12
-"627","eng","Systems Engineering and Design","senior","bachelor","full_time","male","hispanic",6
-"628","eng","Technical Systems Management","senior","bachelor","full_time","male","hispanic",11
-"629","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",4
-"630","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
-"631","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",7
-"632","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",13
-"633","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","hispanic",4
-"634","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",3
-"635","eng","Engineering Undeclared","senior","bachelor","full_time","female","hispanic",1
-"636","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
-"637","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",6
-"638","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
-"639","eng","Physics","senior","bachelor","full_time","female","hispanic",1
-"640","eng","Systems Engineering and Design","senior","bachelor","full_time","female","hispanic",2
-"641","eng","Technical Systems Management","senior","bachelor","full_time","female","hispanic",2
-"642","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","american_indian",1
-"643","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","american_indian",2
-"644","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","american_indian",1
-"645","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","pacific_islander",1
-"646","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",8
-"647","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
-"648","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","two_or_more",3
-"649","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",7
-"650","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",7
-"651","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",10
-"652","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","two_or_more",18
-"653","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",11
-"654","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","two_or_more",1
-"655","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
-"656","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",3
-"657","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",11
-"658","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
-"659","eng","Physics","senior","bachelor","full_time","male","two_or_more",5
-"660","eng","Systems Engineering and Design","senior","bachelor","full_time","male","two_or_more",1
-"661","eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","two_or_more",3
-"662","eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
-"663","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
-"664","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
-"665","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","two_or_more",2
-"666","eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
-"667","eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","two_or_more",1
-"668","eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",3
-"669","eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
-"670","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
-"671","eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
-"672","eng","Physics","senior","bachelor","full_time","female","two_or_more",3
-"673","eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
-"674","eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
-"675","eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","unknown",1
-"676","eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
-"677","eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","unknown",4
-"678","eng","Computer Science (B.S.)","senior","bachelor","full_time","male","unknown",6
-"679","eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
-"680","eng","Physics","senior","bachelor","full_time","male","unknown",1
-"681","eng","Technical Systems Management","senior","bachelor","full_time","male","unknown",1
-"682","eng","Computer Science (B.S.)","senior","bachelor","full_time","female","unknown",2
+"Type","Program","Class","Degree_level","Status","Gender","Ethnicity","Count"
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","white",25
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","white",17
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","white",5
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","white",18
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","white",29
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","white",16
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","white",29
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","white",17
+"eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","white",3
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","white",12
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","white",10
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","white",13
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","white",38
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","male","white",12
+"eng","Physics","freshman","bachelor","full_time","male","white",26
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","male","white",11
+"eng","Technical Systems Management","freshman","bachelor","full_time","male","white",4
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","white",10
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","white",8
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","white",10
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","white",14
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","white",13
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","white",6
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","white",6
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","white",2
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","white",13
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","female","white",5
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","white",5
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","white",10
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","female","white",1
+"eng","Physics","freshman","bachelor","full_time","female","white",5
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","female","white",10
+"eng","Technical Systems Management","freshman","bachelor","full_time","female","white",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","black",1
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","black",1
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","black",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","black",3
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","black",3
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","black",4
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","black",2
+"eng","Physics","freshman","bachelor","full_time","male","black",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","black",1
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","black",2
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","female","black",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",11
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",3
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",13
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",11
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",12
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",38
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",25
+"eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",8
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","nonresident_alien",2
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",10
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",8
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","nonresident_alien",17
+"eng","Physics","freshman","bachelor","full_time","male","nonresident_alien",18
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",10
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",3
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",6
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
+"eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",1
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","nonresident_alien",2
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",3
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",2
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","nonresident_alien",5
+"eng","Physics","freshman","bachelor","full_time","female","nonresident_alien",5
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","asian",15
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","male","asian",3
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","asian",8
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",14
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","asian",15
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","asian",26
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","asian",31
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",27
+"eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","asian",3
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","asian",13
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","asian",5
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","asian",6
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","asian",21
+"eng","Physics","freshman","bachelor","full_time","male","asian",4
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","male","asian",4
+"eng","Technical Systems Management","freshman","bachelor","full_time","male","asian",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","asian",2
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","asian",2
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","asian",7
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",12
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","asian",3
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","asian",7
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","asian",22
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",6
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","asian",2
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","asian",1
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","asian",6
+"eng","Physics","freshman","bachelor","full_time","female","asian",1
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","female","asian",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",6
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",6
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",5
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",4
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","hispanic",7
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",8
+"eng","Engineering Mechanics (B.S.)","freshman","bachelor","full_time","male","hispanic",1
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","hispanic",11
+"eng","Industrial Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",2
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",2
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",12
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","freshman","bachelor","full_time","male","hispanic",1
+"eng","Physics","freshman","bachelor","full_time","male","hispanic",2
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","male","hispanic",4
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",2
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",3
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","hispanic",4
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","hispanic",8
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","hispanic",1
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","female","hispanic",2
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","pacific_islander",1
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","pacific_islander",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",6
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",4
+"eng","Electrical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",4
+"eng","Engineering Undeclared","freshman","bachelor","full_time","male","two_or_more",3
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",1
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","two_or_more",2
+"eng","Physics","freshman","bachelor","full_time","male","two_or_more",3
+"eng","Agricultural & Biological Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Chemical Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Civil Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Computer Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","two_or_more",3
+"eng","Engineering Undeclared","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Physics","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Systems Engineering and Design","freshman","bachelor","full_time","female","two_or_more",1
+"eng","Aerospace Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",2
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","male","unknown",2
+"eng","Materials Science and Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
+"eng","Mechanical Engineering (B.S.)","freshman","bachelor","full_time","male","unknown",1
+"eng","Physics","freshman","bachelor","full_time","male","unknown",2
+"eng","Bioengineering (B.S.)","freshman","bachelor","full_time","female","unknown",2
+"eng","Computer Science (B.S.)","freshman","bachelor","full_time","female","unknown",1
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","white",49
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","white",16
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","white",7
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",33
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","white",52
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","white",41
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","white",55
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",55
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","white",10
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","white",22
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","white",19
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","white",18
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","white",48
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","white",9
+"eng","Physics","sophomore","bachelor","full_time","male","white",38
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","white",22
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","white",13
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","white",14
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","white",9
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","white",10
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",17
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","white",28
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","white",5
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","white",16
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",13
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","female","white",1
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","female","white",12
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","white",6
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","white",3
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","white",23
+"eng","Physics","sophomore","bachelor","full_time","female","white",10
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","female","white",5
+"eng","Technical Systems Management","sophomore","bachelor","full_time","female","white",1
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",2
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","black",1
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","black",1
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","black",3
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",2
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","black",2
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","black",4
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","black",1
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","black",5
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","female","black",4
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","black",1
+"eng","Technical Systems Management","sophomore","bachelor","full_time","female","black",1
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",13
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",2
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",11
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",16
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",38
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",39
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",44
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",5
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","nonresident_alien",3
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",10
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",7
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",27
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","nonresident_alien",1
+"eng","Physics","sophomore","bachelor","full_time","male","nonresident_alien",29
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","nonresident_alien",7
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","nonresident_alien",1
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",2
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",3
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",1
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",8
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",2
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",6
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",12
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","female","nonresident_alien",7
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",4
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","nonresident_alien",5
+"eng","Physics","sophomore","bachelor","full_time","female","nonresident_alien",7
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",19
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",4
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","asian",10
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",23
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",14
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",77
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","asian",95
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",40
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","asian",3
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","asian",13
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",6
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",13
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",32
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","asian",3
+"eng","Physics","sophomore","bachelor","full_time","male","asian",15
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","asian",12
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","asian",1
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",2
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","asian",9
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",9
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",4
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",10
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","asian",63
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",8
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","female","asian",2
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",6
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",6
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","asian",20
+"eng","Physics","sophomore","bachelor","full_time","female","asian",6
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","female","asian",5
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",9
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",1
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",8
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",8
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",14
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","hispanic",6
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",6
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","hispanic",4
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","hispanic",6
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",3
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",2
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",14
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","hispanic",1
+"eng","Physics","sophomore","bachelor","full_time","male","hispanic",1
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","hispanic",6
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","hispanic",6
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",4
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",2
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",7
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",1
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","hispanic",8
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",4
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","female","hispanic",1
+"eng","Physics","sophomore","bachelor","full_time","female","hispanic",2
+"eng","Technical Systems Management","sophomore","bachelor","full_time","female","hispanic",1
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","pacific_islander",2
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","pacific_islander",1
+"eng","Aerospace Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",5
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",6
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",4
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",5
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","two_or_more",4
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",3
+"eng","Engineering Mechanics (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","male","two_or_more",2
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",3
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",2
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",8
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","sophomore","bachelor","full_time","male","two_or_more",1
+"eng","Physics","sophomore","bachelor","full_time","male","two_or_more",5
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","two_or_more",2
+"eng","Technical Systems Management","sophomore","bachelor","full_time","male","two_or_more",1
+"eng","Agricultural & Biological Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
+"eng","Bioengineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
+"eng","Chemical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",3
+"eng","Civil Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","two_or_more",4
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",3
+"eng","Engineering Undeclared","sophomore","bachelor","full_time","female","two_or_more",2
+"eng","Industrial Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
+"eng","Materials Science and Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",1
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","two_or_more",2
+"eng","Physics","sophomore","bachelor","full_time","female","two_or_more",1
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",3
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","male","unknown",5
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",4
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","male","unknown",2
+"eng","Physics","sophomore","bachelor","full_time","male","unknown",3
+"eng","Systems Engineering and Design","sophomore","bachelor","full_time","male","unknown",1
+"eng","Computer Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",1
+"eng","Computer Science (B.S.)","sophomore","bachelor","full_time","female","unknown",4
+"eng","Electrical Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",2
+"eng","Mechanical Engineering (B.S.)","sophomore","bachelor","full_time","female","unknown",1
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","white",43
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","white",7
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","white",14
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","white",46
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","white",66
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","white",71
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","white",83
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","white",59
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","white",5
+"eng","Engineering Undeclared","junior","bachelor","full_time","male","white",1
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","white",19
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","white",18
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","white",81
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","white",22
+"eng","Physics","junior","bachelor","full_time","male","white",42
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","white",19
+"eng","Technical Systems Management","junior","bachelor","full_time","male","white",30
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","white",7
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","white",6
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","white",21
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","white",23
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","white",26
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","white",7
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","white",20
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","white",9
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","white",2
+"eng","Engineering Undeclared","junior","bachelor","full_time","female","white",1
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","white",4
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","white",11
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","white",29
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","white",2
+"eng","Physics","junior","bachelor","full_time","female","white",5
+"eng","Systems Engineering and Design","junior","bachelor","full_time","female","white",8
+"eng","Technical Systems Management","junior","bachelor","full_time","female","white",1
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","black",3
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","black",1
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","black",1
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","black",2
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","black",4
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","black",7
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","black",2
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","black",1
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","black",2
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","black",2
+"eng","Technical Systems Management","junior","bachelor","full_time","male","black",7
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","black",1
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","black",1
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","black",1
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","black",2
+"eng","Technical Systems Management","junior","bachelor","full_time","female","black",1
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",4
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",1
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",23
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",12
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",70
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","nonresident_alien",95
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",56
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","nonresident_alien",6
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",17
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",25
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","nonresident_alien",5
+"eng","Physics","junior","bachelor","full_time","male","nonresident_alien",30
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","nonresident_alien",8
+"eng","Technical Systems Management","junior","bachelor","full_time","male","nonresident_alien",2
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",2
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",6
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",21
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","nonresident_alien",33
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",11
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",3
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",4
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","nonresident_alien",1
+"eng","Physics","junior","bachelor","full_time","female","nonresident_alien",8
+"eng","Systems Engineering and Design","junior","bachelor","full_time","female","nonresident_alien",3
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","asian",26
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","asian",1
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","asian",4
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","asian",26
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","asian",13
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","asian",95
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","asian",131
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","asian",52
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","male","asian",7
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","asian",17
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","asian",6
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","asian",25
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","asian",3
+"eng","Physics","junior","bachelor","full_time","male","asian",21
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","asian",13
+"eng","Technical Systems Management","junior","bachelor","full_time","male","asian",7
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","asian",1
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","asian",2
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","asian",10
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","asian",14
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","asian",23
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","asian",71
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","female","asian",10
+"eng","Engineering Mechanics (B.S.)","junior","bachelor","full_time","female","asian",1
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","asian",4
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","asian",9
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","asian",1
+"eng","Physics","junior","bachelor","full_time","female","asian",9
+"eng","Systems Engineering and Design","junior","bachelor","full_time","female","asian",6
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",7
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","hispanic",5
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",10
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",15
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",14
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","hispanic",13
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",18
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",1
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",2
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","hispanic",24
+"eng","Physics","junior","bachelor","full_time","male","hispanic",12
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","hispanic",3
+"eng","Technical Systems Management","junior","bachelor","full_time","male","hispanic",7
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",3
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","hispanic",6
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",4
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","hispanic",1
+"eng","Systems Engineering and Design","junior","bachelor","full_time","female","hispanic",2
+"eng","Technical Systems Management","junior","bachelor","full_time","female","hispanic",1
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","pacific_islander",1
+"eng","Aerospace Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",2
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",1
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",1
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",5
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",5
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","two_or_more",10
+"eng","Electrical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",6
+"eng","Industrial Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",8
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","male","two_or_more",3
+"eng","Physics","junior","bachelor","full_time","male","two_or_more",3
+"eng","Systems Engineering and Design","junior","bachelor","full_time","male","two_or_more",3
+"eng","Technical Systems Management","junior","bachelor","full_time","male","two_or_more",1
+"eng","Agricultural & Biological Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
+"eng","Chemical Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",3
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",2
+"eng","Computer Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","two_or_more",6
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",3
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","junior","bachelor","full_time","female","two_or_more",1
+"eng","Physics","junior","bachelor","full_time","female","two_or_more",4
+"eng","Technical Systems Management","junior","bachelor","full_time","female","two_or_more",1
+"eng","Bioengineering (B.S.)","junior","bachelor","full_time","male","unknown",1
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","male","unknown",6
+"eng","Materials Science and Engineering (B.S.)","junior","bachelor","full_time","male","unknown",1
+"eng","Mechanical Engineering (B.S.)","junior","bachelor","full_time","male","unknown",2
+"eng","Civil Engineering (B.S.)","junior","bachelor","full_time","female","unknown",2
+"eng","Computer Science (B.S.)","junior","bachelor","full_time","female","unknown",2
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","white",97
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","white",23
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","white",21
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","white",87
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","white",109
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","white",149
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","white",176
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","white",119
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","white",12
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","white",22
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","white",56
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","white",140
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","white",29
+"eng","Physics","senior","bachelor","full_time","male","white",94
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","white",25
+"eng","Technical Systems Management","senior","bachelor","full_time","male","white",43
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","white",21
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","white",11
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","white",25
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","white",29
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","white",36
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","white",9
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","white",29
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","white",17
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","white",2
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","white",8
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","white",15
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","white",36
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","white",5
+"eng","Physics","senior","bachelor","full_time","female","white",18
+"eng","Systems Engineering and Design","senior","bachelor","full_time","female","white",15
+"eng","Technical Systems Management","senior","bachelor","full_time","female","white",2
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","black",2
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","black",1
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","black",1
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","black",5
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","black",3
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","black",6
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","black",10
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","black",8
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","black",4
+"eng","Physics","senior","bachelor","full_time","male","black",1
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","black",2
+"eng","Technical Systems Management","senior","bachelor","full_time","male","black",9
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","black",3
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","black",1
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","black",2
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","black",1
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","black",1
+"eng","Technical Systems Management","senior","bachelor","full_time","female","black",3
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",19
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",3
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",1
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",35
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",33
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",154
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","nonresident_alien",186
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",97
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","nonresident_alien",16
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",23
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",16
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",45
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","nonresident_alien",3
+"eng","Physics","senior","bachelor","full_time","male","nonresident_alien",48
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","nonresident_alien",5
+"eng","Technical Systems Management","senior","bachelor","full_time","male","nonresident_alien",3
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",5
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",4
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",3
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",20
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",11
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",21
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","nonresident_alien",70
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",20
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","nonresident_alien",4
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",9
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",12
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","nonresident_alien",9
+"eng","Physics","senior","bachelor","full_time","female","nonresident_alien",9
+"eng","Systems Engineering and Design","senior","bachelor","full_time","female","nonresident_alien",1
+"eng","Technical Systems Management","senior","bachelor","full_time","female","nonresident_alien",1
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","asian",35
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","asian",3
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","asian",28
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","asian",47
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","asian",38
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","asian",196
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","asian",221
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","asian",103
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","asian",8
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","asian",22
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","asian",32
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","asian",50
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","asian",5
+"eng","Physics","senior","bachelor","full_time","male","asian",31
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","asian",23
+"eng","Technical Systems Management","senior","bachelor","full_time","male","asian",4
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","asian",4
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","female","asian",4
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","asian",19
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","asian",20
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","asian",14
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","asian",26
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","asian",77
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","asian",14
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","asian",3
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","asian",6
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","asian",12
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","asian",12
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","asian",2
+"eng","Physics","senior","bachelor","full_time","female","asian",8
+"eng","Systems Engineering and Design","senior","bachelor","full_time","female","asian",6
+"eng","Technical Systems Management","senior","bachelor","full_time","female","asian",2
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",22
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",3
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","hispanic",8
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",14
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",17
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",13
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","hispanic",23
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",16
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","hispanic",3
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",5
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",6
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",24
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","hispanic",5
+"eng","Physics","senior","bachelor","full_time","male","hispanic",12
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","hispanic",6
+"eng","Technical Systems Management","senior","bachelor","full_time","male","hispanic",11
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",4
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",7
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",13
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","hispanic",4
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",3
+"eng","Engineering Undeclared","senior","bachelor","full_time","female","hispanic",1
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",6
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","hispanic",2
+"eng","Physics","senior","bachelor","full_time","female","hispanic",1
+"eng","Systems Engineering and Design","senior","bachelor","full_time","female","hispanic",2
+"eng","Technical Systems Management","senior","bachelor","full_time","female","hispanic",2
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","american_indian",1
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","american_indian",2
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","american_indian",1
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","pacific_islander",1
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",8
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","two_or_more",3
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",7
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",7
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",10
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","two_or_more",18
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",11
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","male","two_or_more",1
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",3
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",11
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","male","two_or_more",2
+"eng","Physics","senior","bachelor","full_time","male","two_or_more",5
+"eng","Systems Engineering and Design","senior","bachelor","full_time","male","two_or_more",1
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","female","two_or_more",3
+"eng","Chemical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","two_or_more",2
+"eng","Electrical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
+"eng","Engineering Mechanics (B.S.)","senior","bachelor","full_time","female","two_or_more",1
+"eng","Industrial Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",3
+"eng","Materials Science and Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",2
+"eng","Nuclear, Plasma, and Radiological Engineering (B.S.)","senior","bachelor","full_time","female","two_or_more",1
+"eng","Physics","senior","bachelor","full_time","female","two_or_more",3
+"eng","Aerospace Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
+"eng","Agricultural & Biological Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
+"eng","Bioengineering (B.S.)","senior","bachelor","full_time","male","unknown",1
+"eng","Civil Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
+"eng","Computer Engineering (B.S.)","senior","bachelor","full_time","male","unknown",4
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","male","unknown",6
+"eng","Mechanical Engineering (B.S.)","senior","bachelor","full_time","male","unknown",1
+"eng","Physics","senior","bachelor","full_time","male","unknown",1
+"eng","Technical Systems Management","senior","bachelor","full_time","male","unknown",1
+"eng","Computer Science (B.S.)","senior","bachelor","full_time","female","unknown",2

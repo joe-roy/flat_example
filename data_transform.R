@@ -54,7 +54,7 @@ flat_enrollment = reported_enrollment %>% gather(key=variable,value=Count,
 
 
 #This file is what is uploaded.
-write.csv(flat_enrollment, "enrollment.csv")
+write.csv(flat_enrollment, "enrollment.csv", row.names = FALSE)
 
 
 
